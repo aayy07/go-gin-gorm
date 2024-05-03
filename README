@@ -1,3 +1,6 @@
 //Elephant SQL DB URL
 //Skip this
 // postgres://cgswxlgr:2ORg0JFnH7fKSxtavG-egu8sQVUK7xm4@satao.db.elephantsql.com/cgswxlgr
+
+
+//Terminal Command to RUN Service: CompileDaemon -command="./go-gin-gorm"
